@@ -1,1 +1,1 @@
-# signalcpu
+# single cycle RV cpu
